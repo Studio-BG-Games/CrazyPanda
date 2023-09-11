@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3456c8e7299cac2469cb5775b323d8a4, type: 3}
+  m_Name: GPUInstancerBillboardAtlasBindings
+  m_EditorClassIdentifier: 
+  billboardAtlasBindings:
+  - prefab: {fileID: 8241417631610882078, guid: 039b30d487eec67469f1715435b45fbe, type: 3}
+    atlasResolution: 2048
+    frameCount: 8
+    albedoAtlasTexture: {fileID: 2800000, guid: 6f5b78972ab511d43b0ca3b92ca5c7ec, type: 3}
+    normalAtlasTexture: {fileID: 2800000, guid: ccf800c390caa8b4692b9450cb685380, type: 3}
+    quadSize: 9.466449
+    yPivotOffset: 2.5057437
+    modifiedDate: 07/24/2023 16:31:08.973
+  - prefab: {fileID: 966753172300641822, guid: 7e485cc270d93d346bb43fe9742d60e8, type: 3}
+    atlasResolution: 2048
+    frameCount: 8
+    albedoAtlasTexture: {fileID: 2800000, guid: 2e17e84c351a42d4e959fd67154be10b, type: 3}
+    normalAtlasTexture: {fileID: 2800000, guid: a383e0e09fc9504409dd08e33f72f62b, type: 3}
+    quadSize: 11.425983
+    yPivotOffset: 3.2835927
+    modifiedDate: 09/11/2023 14:14:12.664
+  - prefab: {fileID: 2702318514027001129, guid: a671b429a54dc3a4ab1e87dc0627edc2, type: 3}
+    atlasResolution: 2048
+    frameCount: 8
+    albedoAtlasTexture: {fileID: 2800000, guid: 90d14183037674c43aa8791990da7503, type: 3}
+    normalAtlasTexture: {fileID: 2800000, guid: 4bbea52f39efcb542a18059f171e4a4c, type: 3}
+    quadSize: 8.478233
+    yPivotOffset: 2.578825
+    modifiedDate: 09/11/2023 14:14:14.100
+  - prefab: {fileID: 3317338316863974339, guid: 43150e84303e3ea4c991b56cefa6e5b4, type: 3}
+    atlasResolution: 2048
+    frameCount: 8
+    albedoAtlasTexture: {fileID: 2800000, guid: 6718ffb296bcb4944bec2ffc9a463a27, type: 3}
+    normalAtlasTexture: {fileID: 2800000, guid: 48b5ac9bf63b9534588878849945e66d, type: 3}
+    quadSize: 7.9159436
+    yPivotOffset: 1.606317
+    modifiedDate: 09/11/2023 14:14:15.465

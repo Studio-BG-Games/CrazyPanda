@@ -1,0 +1,438 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6aaf1e8b73d61a449034bf80bec9eaa, type: 3}
+  m_Name: TerrainMyBase_338882
+  m_EditorClassIdentifier: 
+  terrainDataGUID: 075a2a337ae71874c92a05c34bfcfa04
+  maxDetailDistance: 80
+  maxTreeDistance: 2500
+  windVector: {x: 0.4, y: 0.8}
+  healthyDryNoiseTexture: {fileID: 2800000, guid: 5d221d423a7e56d4d8e9bff0c4a73886, type: 3}
+  windWaveNormalTexture: {fileID: 2800000, guid: 78384f2a63e207744a3b1821e032ee03, type: 3}
+  autoSPCellSize: 1
+  preferedSPCellSize: 125
+  detailDensity: 1
+  warningText: 
+--- !u!114 &1483417340701285867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eff76622da7f54144871ed74349ba8ed, type: 3}
+  m_Name: Tree_1_Tree_05_fix
+  m_EditorClassIdentifier: 
+  prefabObject: {fileID: 2702318514027001129, guid: a671b429a54dc3a4ab1e87dc0627edc2, type: 3}
+  isShadowCasting: 1
+  useCustomShadowDistance: 0
+  shadowDistance: 0
+  shadowLODMap:
+  - 0
+  - 4
+  - 0
+  - 0
+  - 1
+  - 5
+  - 0
+  - 0
+  - 2
+  - 6
+  - 0
+  - 0
+  - 3
+  - 7
+  - 0
+  - 0
+  useOriginalShaderForShadow: 1
+  cullShadows: 0
+  minDistance: 0
+  maxDistance: 2500
+  isFrustumCulling: 1
+  isOcclusionCulling: 1
+  frustumOffset: 0.2
+  minCullingDistance: 0
+  occlusionOffset: 0
+  occlusionAccuracy: 1
+  boundsOffset: {x: 0, y: 0, z: 0}
+  isLODCrossFade: 1
+  isLODCrossFadeAnimate: 1
+  lodFadeTransitionWidth: 0.1
+  lodBiasAdjustment: 1
+  billboard:
+    billboardQuality: 1
+    atlasResolution: 2048
+    frameCount: 8
+    replaceLODCullWithBillboard: 1
+    isOverridingOriginalCutoff: 0
+    cutoffOverride: -1
+    billboardBrightness: 0.5
+    billboardDistance: 0.8
+    quadSize: 8.478233
+    yPivotOffset: 2.578825
+    albedoAtlasTexture: {fileID: 2800000, guid: 90d14183037674c43aa8791990da7503, type: 3}
+    normalAtlasTexture: {fileID: 2800000, guid: 4bbea52f39efcb542a18059f171e4a4c, type: 3}
+    customBillboardInLODGroup: 0
+    useCustomBillboard: 0
+    customBillboardMesh: {fileID: 0}
+    customBillboardMaterial: {fileID: 0}
+    isBillboardShadowCasting: 0
+    billboardFaceCamPos: 0
+    normalStrength: 1
+  isBillboardDisabled: 0
+  useGeneratedBillboard: 1
+  checkedForBillboardExtensions: 0
+  autoUpdateTransformData: 0
+  treeType: 0
+  warningText: 
+  prototypeIndex: 1
+  isApplyRotation: 1
+  isApplyPrefabScale: 1
+  isApplyTerrainHeight: 1
+--- !u!114 &2931825364822519185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eff76622da7f54144871ed74349ba8ed, type: 3}
+  m_Name: Tree_3_Tree_07_fix
+  m_EditorClassIdentifier: 
+  prefabObject: {fileID: 8241417631610882078, guid: 039b30d487eec67469f1715435b45fbe, type: 3}
+  isShadowCasting: 1
+  useCustomShadowDistance: 0
+  shadowDistance: 0
+  shadowLODMap:
+  - 0
+  - 4
+  - 0
+  - 0
+  - 1
+  - 5
+  - 0
+  - 0
+  - 2
+  - 6
+  - 0
+  - 0
+  - 3
+  - 7
+  - 0
+  - 0
+  useOriginalShaderForShadow: 1
+  cullShadows: 0
+  minDistance: 0
+  maxDistance: 2500
+  isFrustumCulling: 1
+  isOcclusionCulling: 1
+  frustumOffset: 0.2
+  minCullingDistance: 0
+  occlusionOffset: 0
+  occlusionAccuracy: 1
+  boundsOffset: {x: 0, y: 0, z: 0}
+  isLODCrossFade: 1
+  isLODCrossFadeAnimate: 1
+  lodFadeTransitionWidth: 0.1
+  lodBiasAdjustment: 1
+  billboard:
+    billboardQuality: 1
+    atlasResolution: 2048
+    frameCount: 8
+    replaceLODCullWithBillboard: 1
+    isOverridingOriginalCutoff: 0
+    cutoffOverride: -1
+    billboardBrightness: 0.5
+    billboardDistance: 0.8
+    quadSize: 9.466449
+    yPivotOffset: 2.5057437
+    albedoAtlasTexture: {fileID: 2800000, guid: 6f5b78972ab511d43b0ca3b92ca5c7ec, type: 3}
+    normalAtlasTexture: {fileID: 2800000, guid: ccf800c390caa8b4692b9450cb685380, type: 3}
+    customBillboardInLODGroup: 0
+    useCustomBillboard: 0
+    customBillboardMesh: {fileID: 0}
+    customBillboardMaterial: {fileID: 0}
+    isBillboardShadowCasting: 0
+    billboardFaceCamPos: 0
+    normalStrength: 1
+  isBillboardDisabled: 0
+  useGeneratedBillboard: 1
+  checkedForBillboardExtensions: 0
+  autoUpdateTransformData: 0
+  treeType: 0
+  warningText: 
+  prototypeIndex: 3
+  isApplyRotation: 1
+  isApplyPrefabScale: 1
+  isApplyTerrainHeight: 1
+--- !u!114 &6473815923213092674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eff76622da7f54144871ed74349ba8ed, type: 3}
+  m_Name: Tree_0_Tree_06_fix
+  m_EditorClassIdentifier: 
+  prefabObject: {fileID: 966753172300641822, guid: 7e485cc270d93d346bb43fe9742d60e8, type: 3}
+  isShadowCasting: 1
+  useCustomShadowDistance: 0
+  shadowDistance: 0
+  shadowLODMap:
+  - 0
+  - 4
+  - 0
+  - 0
+  - 1
+  - 5
+  - 0
+  - 0
+  - 2
+  - 6
+  - 0
+  - 0
+  - 3
+  - 7
+  - 0
+  - 0
+  useOriginalShaderForShadow: 1
+  cullShadows: 0
+  minDistance: 0
+  maxDistance: 2500
+  isFrustumCulling: 1
+  isOcclusionCulling: 1
+  frustumOffset: 0.2
+  minCullingDistance: 0
+  occlusionOffset: 0
+  occlusionAccuracy: 1
+  boundsOffset: {x: 0, y: 0, z: 0}
+  isLODCrossFade: 1
+  isLODCrossFadeAnimate: 1
+  lodFadeTransitionWidth: 0.1
+  lodBiasAdjustment: 1
+  billboard:
+    billboardQuality: 1
+    atlasResolution: 2048
+    frameCount: 8
+    replaceLODCullWithBillboard: 1
+    isOverridingOriginalCutoff: 0
+    cutoffOverride: -1
+    billboardBrightness: 0.5
+    billboardDistance: 0.8
+    quadSize: 11.425983
+    yPivotOffset: 3.2835927
+    albedoAtlasTexture: {fileID: 2800000, guid: 2e17e84c351a42d4e959fd67154be10b, type: 3}
+    normalAtlasTexture: {fileID: 2800000, guid: a383e0e09fc9504409dd08e33f72f62b, type: 3}
+    customBillboardInLODGroup: 0
+    useCustomBillboard: 0
+    customBillboardMesh: {fileID: 0}
+    customBillboardMaterial: {fileID: 0}
+    isBillboardShadowCasting: 0
+    billboardFaceCamPos: 0
+    normalStrength: 1
+  isBillboardDisabled: 0
+  useGeneratedBillboard: 1
+  checkedForBillboardExtensions: 0
+  autoUpdateTransformData: 0
+  treeType: 0
+  warningText: 
+  prototypeIndex: 0
+  isApplyRotation: 1
+  isApplyPrefabScale: 1
+  isApplyTerrainHeight: 1
+--- !u!114 &7593224894704404399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdeaa1ff97134aec9c8aae1beccb5637, type: 3}
+  m_Name: Detail_0_LOD0_340726
+  m_EditorClassIdentifier: 
+  prefabObject: {fileID: -927199367670048503, guid: 26a964c63c61a494397491ed6a38ac87, type: 3}
+  isShadowCasting: 1
+  useCustomShadowDistance: 0
+  shadowDistance: 0
+  shadowLODMap:
+  - 0
+  - 4
+  - 0
+  - 0
+  - 1
+  - 5
+  - 0
+  - 0
+  - 2
+  - 6
+  - 0
+  - 0
+  - 3
+  - 7
+  - 0
+  - 0
+  useOriginalShaderForShadow: 0
+  cullShadows: 0
+  minDistance: 0
+  maxDistance: 80
+  isFrustumCulling: 1
+  isOcclusionCulling: 1
+  frustumOffset: 0.2
+  minCullingDistance: 0
+  occlusionOffset: 0
+  occlusionAccuracy: 1
+  boundsOffset: {x: 0, y: 0, z: 0}
+  isLODCrossFade: 0
+  isLODCrossFadeAnimate: 1
+  lodFadeTransitionWidth: 0.1
+  lodBiasAdjustment: 1
+  billboard:
+    billboardQuality: 1
+    atlasResolution: 2048
+    frameCount: 8
+    replaceLODCullWithBillboard: 1
+    isOverridingOriginalCutoff: 0
+    cutoffOverride: -1
+    billboardBrightness: 0.5
+    billboardDistance: 0.8
+    quadSize: 0
+    yPivotOffset: 0
+    albedoAtlasTexture: {fileID: 0}
+    normalAtlasTexture: {fileID: 0}
+    customBillboardInLODGroup: 0
+    useCustomBillboard: 0
+    customBillboardMesh: {fileID: 0}
+    customBillboardMaterial: {fileID: 0}
+    isBillboardShadowCasting: 0
+    billboardFaceCamPos: 0
+    normalStrength: 1
+  isBillboardDisabled: 0
+  useGeneratedBillboard: 0
+  checkedForBillboardExtensions: 1
+  autoUpdateTransformData: 0
+  treeType: 0
+  warningText: 
+  prototypeIndex: 0
+  detailRenderMode: 2
+  usePrototypeMesh: 1
+  prototypeTexture: {fileID: 0}
+  useCustomMaterialForTextureDetail: 0
+  textureDetailCustomMaterial: {fileID: 0}
+  detailDensity: 1
+  useCrossQuads: 0
+  quadCount: 2
+  isBillboard: 0
+  billboardDistance: 0.9
+  billboardDistanceDebug: 0
+  billboardDistanceDebugColor: {r: 1, g: 0, b: 0, a: 1}
+  billboardFaceCamPos: 0
+  detailHealthyColor: {r: 0.2627451, g: 0.9764706, b: 0.16470589, a: 1}
+  detailDryColor: {r: 0.8039216, g: 0.7372549, b: 0.101960786, a: 1}
+  noiseSpread: 0.1
+  ambientOcclusion: 0.5
+  gradientPower: 0.3
+  windWaveTintColor: {r: 0.53333336, g: 0.8568628, b: 0.13333334, a: 1}
+  windIdleSway: 0.6
+  windWavesOn: 1
+  windWaveSize: 0.5
+  windWaveTint: 0.5
+  windWaveSway: 0.3
+  detailScale: {x: 1, y: 2, z: 1, w: 2}
+  useCustomHealthyDryNoiseTexture: 0
+  healthyDryNoiseTexture: {fileID: 0}
+--- !u!114 &8464284444709516935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eff76622da7f54144871ed74349ba8ed, type: 3}
+  m_Name: Tree_2_Tree_04_fix
+  m_EditorClassIdentifier: 
+  prefabObject: {fileID: 3317338316863974339, guid: 43150e84303e3ea4c991b56cefa6e5b4, type: 3}
+  isShadowCasting: 1
+  useCustomShadowDistance: 0
+  shadowDistance: 0
+  shadowLODMap:
+  - 0
+  - 4
+  - 0
+  - 0
+  - 1
+  - 5
+  - 0
+  - 0
+  - 2
+  - 6
+  - 0
+  - 0
+  - 3
+  - 7
+  - 0
+  - 0
+  useOriginalShaderForShadow: 1
+  cullShadows: 0
+  minDistance: 0
+  maxDistance: 2500
+  isFrustumCulling: 1
+  isOcclusionCulling: 1
+  frustumOffset: 0.2
+  minCullingDistance: 0
+  occlusionOffset: 0
+  occlusionAccuracy: 1
+  boundsOffset: {x: 0, y: 0, z: 0}
+  isLODCrossFade: 1
+  isLODCrossFadeAnimate: 1
+  lodFadeTransitionWidth: 0.1
+  lodBiasAdjustment: 1
+  billboard:
+    billboardQuality: 1
+    atlasResolution: 2048
+    frameCount: 8
+    replaceLODCullWithBillboard: 1
+    isOverridingOriginalCutoff: 0
+    cutoffOverride: -1
+    billboardBrightness: 0.5
+    billboardDistance: 0.8
+    quadSize: 7.9159436
+    yPivotOffset: 1.606317
+    albedoAtlasTexture: {fileID: 2800000, guid: 6718ffb296bcb4944bec2ffc9a463a27, type: 3}
+    normalAtlasTexture: {fileID: 2800000, guid: 48b5ac9bf63b9534588878849945e66d, type: 3}
+    customBillboardInLODGroup: 0
+    useCustomBillboard: 0
+    customBillboardMesh: {fileID: 0}
+    customBillboardMaterial: {fileID: 0}
+    isBillboardShadowCasting: 0
+    billboardFaceCamPos: 0
+    normalStrength: 1
+  isBillboardDisabled: 0
+  useGeneratedBillboard: 1
+  checkedForBillboardExtensions: 0
+  autoUpdateTransformData: 0
+  treeType: 0
+  warningText: 
+  prototypeIndex: 2
+  isApplyRotation: 1
+  isApplyPrefabScale: 1
+  isApplyTerrainHeight: 1

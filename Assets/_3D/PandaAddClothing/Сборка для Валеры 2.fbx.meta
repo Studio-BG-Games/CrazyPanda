@@ -1,0 +1,903 @@
+fileFormatVersion: 2
+guid: 7de5fbf39f4732040884913b296ec12f
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 8996876661282030961
+    second: Bip01|Bip01|Take 001|BaseLayer
+  - first:
+      74: 1359408675128791233
+    second: Bip01|Bip01|Take 001|BaseLayer.001
+  - first:
+      74: -5231669286637920349
+    second: Bip01|Bip01|Take 001|BaseLayer.002
+  - first:
+      74: -8457831031446804182
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1
+  - first:
+      74: 2963177818707632529
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.001
+  - first:
+      74: -6442461292623877049
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.002
+  - first:
+      74: -4224877851379419700
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.003
+  - first:
+      74: -3440563744899602820
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.004
+  - first:
+      74: -5994961698966848866
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.005
+  - first:
+      74: -4709915499422474598
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.006
+  - first:
+      74: 7188740731686661018
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.007
+  - first:
+      74: 3658012499508140565
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.008
+  - first:
+      74: 1754200227981206333
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Dummy01.001|Take 00
+  - first:
+      74: 6440192655019113655
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Dummy01|Take 001|Ba
+  - first:
+      74: -6762030479602648177
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Dummy02|Take 00
+  - first:
+      74: 216999940467364798
+    second: Bip01|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Dummy02|Take 001|Ba
+  - first:
+      74: 4852014204930417046
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1
+  - first:
+      74: -7645308398231975094
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.001
+  - first:
+      74: -811774808629946917
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.002
+  - first:
+      74: -7744711758156415270
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.003
+  - first:
+      74: 8654484584668776804
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.004
+  - first:
+      74: 5188401837182301028
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.005
+  - first:
+      74: -1249176192145240081
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.006
+  - first:
+      74: -3500925145209515180
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.007
+  - first:
+      74: 7882243623812223404
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.008
+  - first:
+      74: 6814684310671891425
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Dummy01.001|Take 001|BaseLa
+  - first:
+      74: 4468353096657196452
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Dummy01|Take 001|BaseLayer
+  - first:
+      74: 7234747104809550688
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Dummy02|Take 001|BaseLayer
+  - first:
+      74: -7574203048784263211
+    second: Bip01|Dummy01.001|Dummy01|Dummy01|Dummy01|Dummy02|Take 001|BaseLayer.
+  - first:
+      74: -6106620219689621809
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1
+  - first:
+      74: 7565302824654137016
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.001
+  - first:
+      74: 3192032427821076087
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.002
+  - first:
+      74: -7003323044294777013
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.003
+  - first:
+      74: -6963673313205694321
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.004
+  - first:
+      74: 1962948534456593541
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.005
+  - first:
+      74: 25147741013724610
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.006
+  - first:
+      74: 2089711531656775783
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.007
+  - first:
+      74: -2942952131200675042
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.008
+  - first:
+      74: 4031452430232007179
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Dummy01.001|Take 001|BaseLa
+  - first:
+      74: 4792516291463799151
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Dummy01|Take 001|BaseLayer
+  - first:
+      74: 326481005463628655
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Dummy02|Take 001|BaseLayer
+  - first:
+      74: 8634950651026217103
+    second: Bip01|Dummy01.001|Dummy01|Dummy02|Dummy02|Dummy02|Take 001|BaseLayer.
+  - first:
+      74: -2282315052845251571
+    second: Bip01|Dummy01.001|Take 001|BaseLayer
+  - first:
+      74: -1341680749099302529
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1
+  - first:
+      74: -3429009739014458750
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.001
+  - first:
+      74: -8047750465857261560
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.002
+  - first:
+      74: 6066528909154217286
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.003
+  - first:
+      74: -5668148331871622054
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.004
+  - first:
+      74: -1202847446857601008
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.005
+  - first:
+      74: 7390535613156957499
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.006
+  - first:
+      74: -5508895982063637927
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.007
+  - first:
+      74: 6406343828972672699
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.008
+  - first:
+      74: 3503977058406082454
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Dummy01.001|Tak
+  - first:
+      74: -3795975923709612794
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Dummy01|Take 00
+  - first:
+      74: 4220017767007606423
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Dummy02|Tak
+  - first:
+      74: 7184842459558213809
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Dummy02|Take 00
+  - first:
+      74: 6233586863985782005
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1
+  - first:
+      74: 5921933959602865345
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.001
+  - first:
+      74: 9040228047222406112
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.002
+  - first:
+      74: 419112153705435355
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.003
+  - first:
+      74: 1136944914619837048
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.004
+  - first:
+      74: -8303239737083120689
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.005
+  - first:
+      74: -7139461263756993123
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.006
+  - first:
+      74: -5392035426598113551
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.007
+  - first:
+      74: 7569916075756844281
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.008
+  - first:
+      74: 8717720182289952017
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Dummy01.001|Take 001|Ba
+  - first:
+      74: 5895225417961388672
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Dummy01|Take 001|BaseLa
+  - first:
+      74: 3514545136776073451
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Dummy02|Take 001|Ba
+  - first:
+      74: -3890403447333589823
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Dummy02|Take 001|BaseLa
+  - first:
+      74: -4000133602470830717
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1
+  - first:
+      74: 2386291886312045844
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.001
+  - first:
+      74: 2810070556806473580
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.002
+  - first:
+      74: -2056136603906366501
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.003
+  - first:
+      74: 5329539640744792302
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.004
+  - first:
+      74: 4937872405593979943
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.005
+  - first:
+      74: -367746689159489909
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.006
+  - first:
+      74: 5272607920026247917
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.007
+  - first:
+      74: -8025822999004528509
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.008
+  - first:
+      74: -6057574783309889197
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Dummy01.001|Take 001|Ba
+  - first:
+      74: 1760669089326208490
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Dummy01|Take 001|BaseLa
+  - first:
+      74: 1200039903864892962
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Dummy02|Take 001|Ba
+  - first:
+      74: -1445305106480118756
+    second: Bip01|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Dummy02|Take 001|BaseLa
+  - first:
+      74: 7740708595887073882
+    second: Bip01|Dummy01|Take 001|BaseLayer
+  - first:
+      74: -2017308602936186719
+    second: Bip01|Dummy01|Take 001|BaseLayer.001
+  - first:
+      74: 8355919763066176012
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1
+  - first:
+      74: 1141787689015062781
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.001
+  - first:
+      74: 7782326567746528627
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.002
+  - first:
+      74: -4329952591849082653
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.003
+  - first:
+      74: 5177930062757201593
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.004
+  - first:
+      74: 3470409870303956108
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.005
+  - first:
+      74: 2146842835904565906
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.006
+  - first:
+      74: 2271222721895234694
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.007
+  - first:
+      74: -5683894113373205880
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.008
+  - first:
+      74: -8544742453241531336
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Dummy01.001|Take 00
+  - first:
+      74: 8569140001187012879
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Dummy01|Take 001|Ba
+  - first:
+      74: 2954648707232309183
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Dummy02|Take 00
+  - first:
+      74: 6015092202825096685
+    second: Bip01|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Dummy02|Take 001|Ba
+  - first:
+      74: -4484536634186024210
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1
+  - first:
+      74: 2643311715089631853
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.001
+  - first:
+      74: 847420870613599137
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.002
+  - first:
+      74: 2638275550402474788
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.003
+  - first:
+      74: 1778606278312721654
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.004
+  - first:
+      74: 8392977872339697021
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.005
+  - first:
+      74: -8609925884286016363
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.006
+  - first:
+      74: -3281071017696981508
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.007
+  - first:
+      74: 4615159752215355962
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.008
+  - first:
+      74: -8685504217849760280
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Dummy01.001|Take 001|BaseLa
+  - first:
+      74: -3953378368140361463
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Dummy01|Take 001|BaseLayer
+  - first:
+      74: 6282302937224429605
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Dummy02|Take 001|BaseLayer
+  - first:
+      74: 3530579335439883302
+    second: Bip01|Dummy02.001|Dummy02|Dummy01|Dummy01|Dummy02|Take 001|BaseLayer.
+  - first:
+      74: -7926011899940825066
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1
+  - first:
+      74: -8173169888536724041
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.001
+  - first:
+      74: -55258319177155992
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.002
+  - first:
+      74: -5190382031415767635
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.003
+  - first:
+      74: 4643684052306291997
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.004
+  - first:
+      74: 9067255987195700163
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.005
+  - first:
+      74: -7701730155584902578
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.006
+  - first:
+      74: 5039141607246261551
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.007
+  - first:
+      74: -1973032563507671126
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.008
+  - first:
+      74: -7137380482416917249
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Dummy01.001|Take 001|BaseLa
+  - first:
+      74: -3800470954452884391
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Dummy01|Take 001|BaseLayer
+  - first:
+      74: -5305310362675166728
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Dummy02|Take 001|BaseLayer
+  - first:
+      74: 422969785830431191
+    second: Bip01|Dummy02.001|Dummy02|Dummy02|Dummy02|Dummy02|Take 001|BaseLayer.
+  - first:
+      74: -7881789872464157361
+    second: Bip01|Dummy02|Take 001|BaseLayer
+  - first:
+      74: 396918256733936666
+    second: Bip01|Dummy02|Take 001|BaseLayer.001
+  - first:
+      74: -1489833928872169577
+    second: Bip01|Dummy02|Take 001|BaseLayer.002
+  - first:
+      74: 627474560253878333
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1
+  - first:
+      74: -2841711535649060353
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.001
+  - first:
+      74: -2869159945611597514
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.002
+  - first:
+      74: 3221758696629566857
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.003
+  - first:
+      74: 7049442991695060701
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.004
+  - first:
+      74: 46812223454941742
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.005
+  - first:
+      74: 4369840462795559606
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.006
+  - first:
+      74: -1005339145407620777
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.007
+  - first:
+      74: -1713496516646692480
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Action 1.008
+  - first:
+      74: 3573348472467016956
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Dummy01.001|Take
+      00
+  - first:
+      74: -3554952676264914561
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Dummy01|Take 001|Ba
+  - first:
+      74: 5555402228563390821
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Dummy02|Take 00
+  - first:
+      74: -2253138824805150571
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01.001|Dummy01.001|Dummy02|Take 001|Ba
+  - first:
+      74: -4789676785485752794
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1
+  - first:
+      74: 2241757944974694718
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.001
+  - first:
+      74: 1198629050254077440
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.002
+  - first:
+      74: -7645950761083953675
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.003
+  - first:
+      74: 6114427541456153920
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.004
+  - first:
+      74: -2174560106657170840
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.005
+  - first:
+      74: -309196740378290064
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.006
+  - first:
+      74: 4450894939458813053
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.007
+  - first:
+      74: -4602029434077144108
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Action 1.008
+  - first:
+      74: -8227004947471297618
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Dummy01.001|Take 001|BaseLa
+  - first:
+      74: -3879905798334311150
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Dummy01|Take 001|BaseLayer
+  - first:
+      74: -6823036516389938440
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Dummy02|Take 001|BaseLayer
+  - first:
+      74: -7347154336912882468
+    second: Dummy02|Dummy01.001|Dummy01|Dummy01|Dummy01|Dummy02|Take 001|BaseLayer.
+  - first:
+      74: -4348589283626035379
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1
+  - first:
+      74: -4845141882249256069
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.001
+  - first:
+      74: 4711876938345037766
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.002
+  - first:
+      74: -9221062289478740702
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.003
+  - first:
+      74: 4156114150224426242
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.004
+  - first:
+      74: 7253512935002922127
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.005
+  - first:
+      74: -6413040365262199750
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.006
+  - first:
+      74: -2880224205061122943
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.007
+  - first:
+      74: 2397931310299276758
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Action 1.008
+  - first:
+      74: -1213706005141288155
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Dummy01.001|Take 001|BaseLa
+  - first:
+      74: -1929189815962243882
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Dummy01|Take 001|BaseLayer
+  - first:
+      74: 4436000109140839171
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Dummy02|Take 001|BaseLayer
+  - first:
+      74: -4771453831134811398
+    second: Dummy02|Dummy01.001|Dummy01|Dummy02|Dummy02|Dummy02|Take 001|BaseLayer.
+  - first:
+      74: 2947295039500983600
+    second: Dummy02|Dummy01.001|Take 001|BaseLayer
+  - first:
+      74: 4753814542524715881
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1
+  - first:
+      74: 5755672779412270384
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.001
+  - first:
+      74: -7083583898275475682
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.002
+  - first:
+      74: 2192278282847680099
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.003
+  - first:
+      74: -1871520921569519499
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.004
+  - first:
+      74: 6738570157792043905
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.005
+  - first:
+      74: -3211004764180846126
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.006
+  - first:
+      74: 6252936900270222866
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.007
+  - first:
+      74: 3889804896657526436
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Action 1.008
+  - first:
+      74: 3293469505729026660
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Dummy01.001|Tak
+  - first:
+      74: 2402945927006078564
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Dummy01|Take
+      00
+  - first:
+      74: -4124844341782960526
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Dummy02|Tak
+  - first:
+      74: 1237193719656473946
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01.001|Dummy01.001|Dummy02|Take
+      00
+  - first:
+      74: -4439475811118862917
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1
+  - first:
+      74: -3517813397963942511
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.001
+  - first:
+      74: 4335389529118901388
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.002
+  - first:
+      74: 7351037282052045117
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.003
+  - first:
+      74: 7875002650684489812
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.004
+  - first:
+      74: -3896985755281826683
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.005
+  - first:
+      74: -6340061978324952110
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.006
+  - first:
+      74: -7118972510380742653
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.007
+  - first:
+      74: -8008951025344810710
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Action 1.008
+  - first:
+      74: 3416524200977957716
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Dummy01.001|Take 001|Ba
+  - first:
+      74: -7312618601895622767
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Dummy01|Take 001|BaseLa
+  - first:
+      74: -1673430586561239623
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Dummy02|Take 001|Ba
+  - first:
+      74: 4355998895819336573
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy01|Dummy01|Dummy02|Take 001|BaseLa
+  - first:
+      74: -6317802349959961653
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1
+  - first:
+      74: 7450473919057360882
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.001
+  - first:
+      74: -3621922950393860310
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.002
+  - first:
+      74: 4483370640853232427
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.003
+  - first:
+      74: -2796387689578048269
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.004
+  - first:
+      74: -7966762145660608887
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.005
+  - first:
+      74: 1500846777765105306
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.006
+  - first:
+      74: -1786372633885120114
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.007
+  - first:
+      74: 7153132256861202134
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Action 1.008
+  - first:
+      74: -8536592253480413564
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Dummy01.001|Take 001|Ba
+  - first:
+      74: -5568257677410685632
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Dummy01|Take 001|BaseLa
+  - first:
+      74: 4760351124661932984
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Dummy02|Take 001|Ba
+  - first:
+      74: 6246822318837323892
+    second: Dummy02|Dummy01.002|Dummy01.001|Dummy02|Dummy02|Dummy02|Take 001|BaseLa
+  - first:
+      74: 4791730184862727176
+    second: Dummy02|Dummy01|Take 001|BaseLayer
+  - first:
+      74: 8341383338831656604
+    second: Dummy02|Dummy01|Take 001|BaseLayer.001
+  - first:
+      74: 6197605456998431013
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1
+  - first:
+      74: -5115711941515909652
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.001
+  - first:
+      74: 236327389912949215
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.002
+  - first:
+      74: -8455774572177121805
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.003
+  - first:
+      74: -1833534209385320954
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.004
+  - first:
+      74: -1129416677099549076
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.005
+  - first:
+      74: 3867119211788849243
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.006
+  - first:
+      74: 7252022242398335627
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.007
+  - first:
+      74: 9109690347477002390
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Action 1.008
+  - first:
+      74: -6607083719892113052
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Dummy01.001|Take
+      00
+  - first:
+      74: 3698551649007647977
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Dummy01|Take 001|Ba
+  - first:
+      74: 2916087503384261132
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Dummy02|Take 00
+  - first:
+      74: 6877850220410130295
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01.001|Dummy01.001|Dummy02|Take 001|Ba
+  - first:
+      74: -6185524922590769051
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1
+  - first:
+      74: 7160190430791624716
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.001
+  - first:
+      74: 5894280231840915477
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.002
+  - first:
+      74: -4729194905470959672
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.003
+  - first:
+      74: 4845405104805747516
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.004
+  - first:
+      74: 3853499864176420715
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.005
+  - first:
+      74: -5674662445200527700
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.006
+  - first:
+      74: -6907617358556811783
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.007
+  - first:
+      74: 5845287975768492724
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Action 1.008
+  - first:
+      74: 2717649949622799575
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Dummy01.001|Take 001|BaseLa
+  - first:
+      74: 4922487465563115415
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Dummy01|Take 001|BaseLayer
+  - first:
+      74: -2955316762232501687
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Dummy02|Take 001|BaseLayer
+  - first:
+      74: 7451858471257199133
+    second: Dummy02|Dummy02.001|Dummy02|Dummy01|Dummy01|Dummy02|Take 001|BaseLayer.
+  - first:
+      74: -1543529335186303737
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1
+  - first:
+      74: -4681402624657300030
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.001
+  - first:
+      74: -4031584038436456651
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.002
+  - first:
+      74: 4754889273453238904
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.003
+  - first:
+      74: -5378459363037770137
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.004
+  - first:
+      74: -3195731864630867544
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.005
+  - first:
+      74: 3787369368101051612
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.006
+  - first:
+      74: -8693677061223737071
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.007
+  - first:
+      74: -821094072993374569
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Action 1.008
+  - first:
+      74: 7694000611962671590
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Dummy01.001|Take 001|BaseLa
+  - first:
+      74: -3448359842622894066
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Dummy01|Take 001|BaseLayer
+  - first:
+      74: 3306968178784269967
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Dummy02|Take 001|BaseLayer
+  - first:
+      74: 1379922804824858200
+    second: Dummy02|Dummy02.001|Dummy02|Dummy02|Dummy02|Dummy02|Take 001|BaseLayer.
+  - first:
+      74: 6655897503366789424
+    second: Dummy02|Dummy02|Take 001|BaseLayer
+  - first:
+      74: 6574224156065033977
+    second: Dummy02|Dummy02|Take 001|BaseLayer.001
+  - first:
+      74: -7945986189635646841
+    second: Dummy02|Dummy02|Take 001|BaseLayer.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default.002
+    second: {fileID: 2100000, guid: e28116426fc147848b97be721f636389, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 0c0bc4a54daad324bb68f4967ccf3cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: d2cefbdb6fe697640bd8f8bb46bce0be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 3f0f79c0a4161644584e70455af95a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: 84107c99a53ffa34d9aadf244293cb82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: 47981b5b7c29595488cb7398ce8a440e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: 220e5adb169c34b4db8d0739f354f731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.028
+    second: {fileID: 2100000, guid: 2d995e392244e80439ee2818e841feeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: 50c20368870437342b9f0e9960feb568, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 3f7ddf247efb4794b83ba5caf6b31a6f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
